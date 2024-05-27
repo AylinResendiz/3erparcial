@@ -10,7 +10,7 @@ int main()
     }
     for ( i = 1; i <= 10; i++)
     {
-        cout<<"los numeros aleatorios son: "<<num[i]<<endl;
+        cout<<"los numeros aleatorios son: "<<num[i];
     }
     return 0;
 }
